@@ -1,11 +1,11 @@
-name: example-environment
+name: networks-tutorial
 channels:
   - conda-forge
 dependencies:
   - python
   - numpy
+  - pandas
+  - matplotlib
+  - networkx
   - pip:
-    - nbgitpuller
-    - sphinx-gallery
-    - pandas
-    - matplotlib
+      -pyvis
