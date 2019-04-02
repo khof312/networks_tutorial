@@ -1,7 +1,6 @@
 numpy
 matplotlib
 ipywidgets
-jupyter_contrib_nbextensions
 pandas
 networkx
 pyvis
