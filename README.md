@@ -5,4 +5,5 @@ A tutorial on analyzing and visualizing networks with Python and the [NetworkX](
 - Day 2: Visualizing network datasets.
 
 You can view an HTML version of the files here: [Part 1](https://nbviewer.jupyter.org/github/khof312/networks_tutorial/blob/master/tutorial_part_1_analyze_nbviewer.ipynb?flush_cache=True)   
-You can launch the files interactively [here](https://mybinder.org/v2/gh/khof312/networks_tutorial/master).
+You can launch the files interactively [here](https://mybinder.org/v2/gh/khof312/networks_tutorial_backup/master).
+
