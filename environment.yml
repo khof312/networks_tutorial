@@ -6,6 +6,6 @@ dependencies:
   - numpy
   - pip:
     - networkx
-	- pyvis
+    - pyvis
     - pandas
     - matplotlib
