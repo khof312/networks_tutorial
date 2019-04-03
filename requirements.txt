@@ -1,7 +1,0 @@
-numpy
-matplotlib
-ipywidgets
-scipy
-pandas
-networkx
-pyvis
